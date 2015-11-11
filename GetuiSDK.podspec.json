@@ -24,7 +24,10 @@
     "SystemConfiguration",
     "CFNetwork",
     "Security",
-    "AVFoundation"
+    "AVFoundation",
+    "CoreLocation",
+    "CoreBluetooth",
+    "CoreTelephony"
   ],
   "libraries": [
     "z",
